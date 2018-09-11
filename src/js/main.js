@@ -1,3 +1,5 @@
 import Teste from './teste.js';
 
-(() => { Teste() })()
+new Teste();
+
+console.log("LALALALA");

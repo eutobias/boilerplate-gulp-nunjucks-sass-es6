@@ -1,5 +1,7 @@
-function Teste() {
-  console.log('teste')
+class Teste {
+  constructor() {
+    console.log('teste')
+  }
 }
 
 export default Teste
